@@ -1,4 +1,4 @@
-Problem 1:
+<b>Problem 1:</b><br/>
  Make a structure -rational number ,that has the following methods: reads information about a rational number, prints information,  - , * , / ,== and a boolean function isLessThan(const Rat&, const Rat&).
  
 Problem 2:
