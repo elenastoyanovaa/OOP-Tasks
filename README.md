@@ -19,5 +19,5 @@ Make a system, which allows to sell ticket for a certain train. Before making th
 BDZ must always know how much money was earned from ticket selling.
 
 <h2><b>Problem 7:</b><br/></h2>
-Make a system for a laboratory,which makes test.Every test has a name,price and time.Test can be individual, or several tests.Individual tests have also an minimal and max points for normal results.Package tests,including several tests are represented as an array of tests and have a 10% discount.The time of the package tests is the max time of a  test in the array.
+Make a system for a laboratory,which makes tests.Every test has a name,price and time.Test can be individual, or several tests.Individual tests have also an minimal and max points for normal results.Package tests,including several tests are represented as an array of tests and have a 10% discount.The time of the package tests is the max time of a  test in the array.
 In this laboratory the tests are made in the order they have been added. (a queue of tests).Make proper functions for adding,removing ,calculating the sum of money of all tests and a function returning the test with the minimal time.
